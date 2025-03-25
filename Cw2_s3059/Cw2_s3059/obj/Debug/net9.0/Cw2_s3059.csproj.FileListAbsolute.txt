@@ -1,0 +1,14 @@
+C:\Users\Beata\Desktop\APBD\Cw2_s3059\Cw2_s3059\bin\Debug\net9.0\Cw2_s3059.exe
+C:\Users\Beata\Desktop\APBD\Cw2_s3059\Cw2_s3059\bin\Debug\net9.0\Cw2_s3059.deps.json
+C:\Users\Beata\Desktop\APBD\Cw2_s3059\Cw2_s3059\bin\Debug\net9.0\Cw2_s3059.runtimeconfig.json
+C:\Users\Beata\Desktop\APBD\Cw2_s3059\Cw2_s3059\bin\Debug\net9.0\Cw2_s3059.dll
+C:\Users\Beata\Desktop\APBD\Cw2_s3059\Cw2_s3059\bin\Debug\net9.0\Cw2_s3059.pdb
+C:\Users\Beata\Desktop\APBD\Cw2_s3059\Cw2_s3059\obj\Debug\net9.0\Cw2_s3059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beata\Desktop\APBD\Cw2_s3059\Cw2_s3059\obj\Debug\net9.0\Cw2_s3059.AssemblyInfoInputs.cache
+C:\Users\Beata\Desktop\APBD\Cw2_s3059\Cw2_s3059\obj\Debug\net9.0\Cw2_s3059.AssemblyInfo.cs
+C:\Users\Beata\Desktop\APBD\Cw2_s3059\Cw2_s3059\obj\Debug\net9.0\Cw2_s3059.csproj.CoreCompileInputs.cache
+C:\Users\Beata\Desktop\APBD\Cw2_s3059\Cw2_s3059\obj\Debug\net9.0\Cw2_s3059.dll
+C:\Users\Beata\Desktop\APBD\Cw2_s3059\Cw2_s3059\obj\Debug\net9.0\refint\Cw2_s3059.dll
+C:\Users\Beata\Desktop\APBD\Cw2_s3059\Cw2_s3059\obj\Debug\net9.0\Cw2_s3059.pdb
+C:\Users\Beata\Desktop\APBD\Cw2_s3059\Cw2_s3059\obj\Debug\net9.0\Cw2_s3059.genruntimeconfig.cache
+C:\Users\Beata\Desktop\APBD\Cw2_s3059\Cw2_s3059\obj\Debug\net9.0\ref\Cw2_s3059.dll
